@@ -6,7 +6,7 @@ on both Queues and Topics.
 
 Deploying the queues and topics
 -------------------------------
-deploy the torquebox.yml file in this directory, which will deploy the queues
+deploy the torquebox.yml file in the `./destinations/` directory, which will deploy the queues
 and topics as standalone messaging containers.
 
     $ jruby -S rake torquebox:deploy
