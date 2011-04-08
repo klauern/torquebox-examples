@@ -1,2 +1,2 @@
 web:
-  context: /jms/send
+  context: /jms-send
