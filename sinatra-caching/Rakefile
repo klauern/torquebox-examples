@@ -1,0 +1,3 @@
+require 'bundler'
+require 'torquebox/rake/tasks'
+Bundler::GemHelper.install_tasks

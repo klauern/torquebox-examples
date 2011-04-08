@@ -1,0 +1,5 @@
+jobs:
+  sys_out_printer:
+    job:          SysOutPrinter
+    cron:         '*/5 * * * * ?'
+    description:  Print something to the sysout every 5 seconds just because
